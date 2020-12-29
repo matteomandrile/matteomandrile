@@ -3,6 +3,8 @@
 <!--
 **matteomandrile/matteomandrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Matteo, my background is Architecture and Sustainable Design. I studied at MIT, Polytechnic of Turin and University of Brasília and I was a scholar of the European Master in Building Information Modelling. In recent years, I joined architectural and engineering firms in Italy, USA, and Brazil, to implement sustainable design strategies and BIM workflows. My interests lie in the development, innovation and implementation of digital technologies and workflows to support sustainable design and construction processes.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
