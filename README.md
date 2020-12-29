@@ -1,18 +1,20 @@
-### Hi there 👋
-I am Matteo, my background is Architecture and Sustainable Design. I studied at MIT, Polytechnic of Turin and University of Brasília and I was a scholar of the European Master in Building Information Modelling. In recent years, I joined architectural and engineering firms in Italy, USA, and Brazil, to implement sustainable design strategies and BIM workflows. My interests lie in the development, innovation and implementation of digital technologies and workflows to support sustainable design and construction processes.
+### Hi there 👋, I am Matteo!
+#### Architect | BIM & VDC Consultant | LEED Green Associate
+![Architect | BIM & VDC Consultant | LEED Green Associate](https://media-exp1.licdn.com/dms/image/C4E16AQEyFbGlywYvwQ/profile-displaybackgroundimage-shrink_350_1400/0/1516578289496?e=1614816000&v=beta&t=QHxK550b5MDTKNOJi0HT_z923J-aaSZSIpaAkalPL1I)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matteomandrile)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**matteomandrile/matteomandrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background is Architecture and Sustainable Design. I studied at MIT, Polytechnic of Turin and University of Brasília and I was a scholar of the European Master in Building Information Modelling. In recent years, I joined architectural and engineering firms in Italy, USA, and Brazil, to implement sustainable design strategies and BIM workflows. My interests lie in the development, innovation and implementation of digital technologies and workflows to support sustainable design and construction processes.
 
-Here are some ideas to get you started:
+Skills: PostgreSQL / Python / JS / HTML / CSS / Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an open source platform to implement ISO 19650 BIM workflows 
+- 👯 I’m looking to collaborate on projects related to digital design & construction 
+- 🤔 I’m looking for help with the development of the above 🔭! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matteomandrile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matteo-mandrile//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteomandrile)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matteomandrile&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/matteomandrile)  
