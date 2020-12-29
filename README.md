@@ -7,13 +7,5 @@ My background is Architecture and Sustainable Design. I studied at MIT, Polytech
 * :classical_building: Revit / Dynamo / Naviswork / Solibri / 3DS Max / Rhino / Grassopper / V-Ray
 * :computer: PostgreSQL / Python / JS / HTML / CSS / Processing
 
-- 🔭 I’m currently working on an open source platform to implement ISO 19650 BIM workflows 
-- 👯 I’m looking to collaborate on projects related to digital design & construction 
-- 🤔 I’m looking for help with the development of the above 🔭! 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matteomandrile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matteo-mandrile//)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matteomandrile&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/matteomandrile)  
