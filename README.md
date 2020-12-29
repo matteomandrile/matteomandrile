@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Matteo, my background is Architecture and Sustainable Design. I studied at MIT, Polytechnic of Turin and University of Brasília and I was a scholar of the European Master in Building Information Modelling. In recent years, I joined architectural and engineering firms in Italy, USA, and Brazil, to implement sustainable design strategies and BIM workflows. My interests lie in the development, innovation and implementation of digital technologies and workflows to support sustainable design and construction processes.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matteomandrile)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matteomandrile/matteomandrile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
